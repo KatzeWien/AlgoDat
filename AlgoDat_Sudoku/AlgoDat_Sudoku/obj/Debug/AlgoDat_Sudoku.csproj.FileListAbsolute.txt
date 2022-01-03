@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\AlgoDat_Sudoku\AlgoDat_Sudoku\bin\Debug\AlgoDat_Sudoku.exe.config
+C:\Users\danie\source\repos\AlgoDat_Sudoku\AlgoDat_Sudoku\bin\Debug\AlgoDat_Sudoku.exe
+C:\Users\danie\source\repos\AlgoDat_Sudoku\AlgoDat_Sudoku\bin\Debug\AlgoDat_Sudoku.pdb
+C:\Users\danie\source\repos\AlgoDat_Sudoku\AlgoDat_Sudoku\obj\Debug\AlgoDat_Sudoku.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\AlgoDat_Sudoku\AlgoDat_Sudoku\obj\Debug\AlgoDat_Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\AlgoDat_Sudoku\AlgoDat_Sudoku\obj\Debug\AlgoDat_Sudoku.exe
+C:\Users\danie\source\repos\AlgoDat_Sudoku\AlgoDat_Sudoku\obj\Debug\AlgoDat_Sudoku.pdb
