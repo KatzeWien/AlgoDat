@@ -51,20 +51,16 @@ namespace AlgoDat_Sudoku
         {
             if (!CheckRow(zeile, wert, field))
             {
-                //Console.WriteLine("Falsche Zeile");
                 return false;
             }
             if (!CheckColumn(spalte, wert, field))
             {
-                //Console.WriteLine("Falsche Spalte");
                 return false;
             }
             if (!CheckBlock(zeile, spalte, wert, field))
             {
-                //Console.WriteLine("Falscher Block");
                 return false;
             }
-            //Console.WriteLine("Passt");
             return true;
         }
 
@@ -126,16 +122,20 @@ namespace AlgoDat_Sudoku
                     }
                 }
             }
+            return currentField;
+        }
+
+        public void PrintOut(int[,] field)
+        {
             for (int i = 0; i < 9; i++)
             {
                 for (int j = 0; j < 9; j++)
                 {
-                    Console.Write(currentField[i, j]);
+                    Console.Write(field[i, j]);
                 }
                 Console.WriteLine();
             }
             Console.WriteLine("--------");
-            return currentField;
         }
     }
 }
